@@ -1,0 +1,8 @@
+Belarus	Horizont	TV	14
+China	Geely	Usual car	3
+China	Digma	Tablet	412
+USA	Apple	Iphone	9821
+Russia	RostSelMash	Combine-harvester	7
+Russia	Baikal	CPU	2
+Russia	Moskvich	Chineese electric car	0
+Belarus	BelAZ	BelAZ	3

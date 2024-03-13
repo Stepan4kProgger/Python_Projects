@@ -1,0 +1,4 @@
+ad	1	2	3
+abcs	11	22
+SomeWord	9	2	4	7
+Address	8	1	9	7
