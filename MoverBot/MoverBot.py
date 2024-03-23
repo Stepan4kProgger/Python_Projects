@@ -13,6 +13,7 @@ with open('channel_creator_cfg.txt', 'r') as f:
         for val in text.split('\n'):
             item = val.split('\t')
             servers_channels.update({int(item[0]): int(item[1])})
+            
 color = 12255232
 
 
